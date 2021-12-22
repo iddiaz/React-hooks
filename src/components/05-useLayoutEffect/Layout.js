@@ -21,7 +21,7 @@ export const Layout = () => {
       
       setBoxSize(pTag.current.getBoundingClientRect())
      
-   }, [quote])
+   }, [quote]) 
 
 
    return (
